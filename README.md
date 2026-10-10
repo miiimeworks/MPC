@@ -14,6 +14,10 @@ Terminates running processes according to a user-specified list.
 
 사용자가 지정한 목록에 따라 실행 중인 프로세스들을 종료시킵니다.
 
+<br>
+<img width="475" height="197" alt="001" src="https://github.com/miiimeworks/MPC/blob/main/Preview/20261011_003914.png?raw=true" style="margin-top: 20px; margin-bottom: 20px;">  
+<br>
+
 ---
 
 ## Key Features
