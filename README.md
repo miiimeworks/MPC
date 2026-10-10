@@ -1,6 +1,6 @@
 # Miime Process Closer (MPC™)
 
-MIIIMEProcessCloser · 미메클로져
+MIIIMECloser · 미메클로져
 
 ![OS](https://img.shields.io/badge/Platform-Windows-0078D4?logo=windows&style=flat-square)
 [![Language](https://img.shields.io/badge/Language-AutoIt-orange?logo=autoit&style=flat-square)](https://www.autoitscript.com/site/)
