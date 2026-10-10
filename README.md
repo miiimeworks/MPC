@@ -61,7 +61,7 @@ Terminates running processes according to a user-specified list.
 MIIIMEProcessCloser
      ├─ Ext/                               
      │    │
-    │    └─ Res/    
+     │    └─ Res/    
      │
      ├─ MIIIMEProcessCloser.exe          실행 파일        /  Executable
      └─ MIIIMEProcessCloser.ini           설정 파일        /  Configuration file
